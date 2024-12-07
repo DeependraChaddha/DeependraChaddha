@@ -2,7 +2,7 @@
 - 👀 I’m interested in Physics, Maths, Data Science, Machine Learning, Deep Learning, Parallel Computing
 - 🌱 I’m currently learning Retrieval Augmented Generation
 - 💞️ I’m looking to collaborate on any project that is interesting
-- 📫 How to reach me
+- 📫 How to reach me Email ID: deependrachaddha02@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play flute
 
