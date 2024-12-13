@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeependraChaddhadata 
+- 👋 Hi, I’m @DeependraChaddha
 - 👀 I’m interested in Physics, Maths, Data Science, Machine Learning, Deep Learning, Parallel Computing
 - 🌱 I’m currently learning Retrieval Augmented Generation
 - 💞️ I’m looking to collaborate on any project that is interesting
